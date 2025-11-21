@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SINAWANG_3" />
+              <option name="title_text" value="ICT_SINAWANG" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -34,7 +34,7 @@
               <listitem name="transcript" value="false" group="sidebar" />
             </listitems>
           </optionlist>
-          <option name="time_enabled" value="false">
+          <option name="time_enabled" value="true">
             <options>
               <option name="time_format" value="elapsed" />
             </options>
@@ -1385,7 +1385,6 @@
             <slidelink slideid="_player.6bf3Q0eOP1I.6eoHmFbPlRi" displaytext="Refleksi x, y, (0,0)" expand="false" type="slide" />
             <slidelink slideid="_player.6bf3Q0eOP1I.6muu0BcRIaA" displaytext="Refleksi x=y, x=-y" expand="false" type="slide" />
             <slidelink slideid="_player.6bf3Q0eOP1I.5mhIJKV5HOq" displaytext="Refleksi x=h, y=h" expand="false" type="slide" />
-            <slidelink slideid="_player.6bf3Q0eOP1I.5lqVVMSv3RF" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
